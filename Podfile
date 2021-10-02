@@ -8,5 +8,6 @@ target 'RxFlowTest' do
   # Pods for RxFlowTest
   pod 'RxFlow'
   pod 'SnapKit'
+  pod 'Then'
 
 end
